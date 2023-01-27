@@ -1,11 +1,12 @@
 ---
-title: 📊 Learn Data Science
+title: ✏️ Week 7 - Essay Writing Skills & Mini-report
 linkTitle: Data Science
 summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+date: ''
 type: book
 tags:
   - current
+weight: 7
 ---
 
 {{< figure src="featured.jpg" >}}

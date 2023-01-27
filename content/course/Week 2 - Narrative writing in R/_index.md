@@ -1,11 +1,12 @@
 ---
-title: 🤖 Learn Robotics
+title: ✏️ Week 2 - Narrative Writing in R
 linkTitle: Learn Robotics
 summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+date: '2022-04-05'
 type: book
 tags:
   - previous
+weight: 2
 ---
 
 {{< figure src="featured.jpg" >}}
