@@ -22,14 +22,21 @@ This page contains a helpful walkthrough guide to install `R` & `RStudio` on you
 {{< cta cta_text="RStudio Download" cta_link="https://posit.co/download/rstudio-desktop/" cta_new_tab="" >}}  
 
 
-[R & RStudio](https://posit.co/download/rstudio-desktop/) (both R)
-## Learn
+The above links take you to the same webpage to install [R & RStudio](https://posit.co/download/rstudio-desktop/), and allow you to select the appropriate operating system. Both work on Mac, Linux and Windows.   
 
-{{< youtube rfscVS0vtbw >}}
+## Video Tutorial
+
+In case you need further guidance, the below video is very helpful. 
+
+{{< youtube TFGYlKvQEQ4 >}}
+
+**Disclaimer:** Despite what the video suggests, R and RStudio will work if you don't like and subscribe to their video ...
 
 ## Quiz
 
 {{< spoiler text="What is the difference between lists and tuples?" >}}
+
+
 Lists
 
 - Lists are mutable - they can be changed

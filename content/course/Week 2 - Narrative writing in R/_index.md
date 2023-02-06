@@ -5,7 +5,7 @@ summary: An example of using Wowchemy's Book layout for publishing online course
 date: '2022-04-05'
 type: book
 tags:
-  - previous
+  - writing
 weight: 2
 ---
 

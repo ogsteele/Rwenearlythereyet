@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Explore top courses
+title: Explore SSC Content
 subtitle:
 content:
   filters:
@@ -16,12 +16,14 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Courses
+    - name: All Sessions
       tag: '*'
-    - name: Previous
-      tag: previous
-    - name: Current
-      tag: current
+    - name: Writing
+      tag: writing
+    - name: Graphing
+      tag: graphing
+    - name: Statistics
+      tag: stats
 design:
   columns: '1'
   view: masonry

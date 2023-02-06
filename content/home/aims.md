@@ -2,19 +2,19 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: ✨ Teach _anything_ with
+title: Course Aims
+subtitle: ✨  Use R and RStudio to do the following ...
 feature:
-  - icon: chalkboard-teacher
+  - icon: pen
     icon_pack: fas
-    name: Slides
+    name: Writing
     description:
-  - icon: video
+  - icon: signal bars
     icon_pack: fas
-    name: Video
+    name: Graphing
     description:
   - icon: code
     icon_pack: fas
-    name: Math & Code
+    name: Maths & Statistics
     description:
 ---

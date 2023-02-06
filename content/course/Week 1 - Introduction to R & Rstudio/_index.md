@@ -1,6 +1,6 @@
 ---
 title: 👩‍💻 Week 1 - Introduction to R & RStudio
-linkTitle: Data Science
+linkTitle: Week 1
 summary: An example of using Wowchemy's Book layout for publishing online courses.
 date: '2022-03-29'
 type: book
@@ -19,6 +19,8 @@ weight: 1
 - To appreciate the capabilities of the wider R landscape via RStudio and packages
 
 ## Session outline
+
+In the in person session on Wednesday 29th March, we will cover the following four main topics; 
 
 **1.**  What even is R?!  
 **2.**  Getting R & RStudio installed  
@@ -42,5 +44,3 @@ There are no prerequisites for the first course.
 {{< spoiler text="How often do the courses run?" >}}
 Continuously, at your own pace.
 {{< /spoiler >}}
-
-{{< cta cta_text="Begin the course" cta_link="python" >}}
