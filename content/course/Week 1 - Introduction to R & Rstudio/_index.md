@@ -1,7 +1,7 @@
 ---
 title: 👩‍💻 Week 1 - Introduction to R & RStudio
 linkTitle: Week 1
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: An introduction to R, RStudio and the wider R landscape.
 date: '2022-03-29'
 type: book
 tags:

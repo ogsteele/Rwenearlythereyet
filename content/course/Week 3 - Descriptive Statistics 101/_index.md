@@ -1,7 +1,7 @@
 ---
 title: 🧮 Week 3 - Descriptive Statistics 101
 linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: Getting data into R and generating descriptive statistics that summarise your data
 date: ''
 type: book
 tags:

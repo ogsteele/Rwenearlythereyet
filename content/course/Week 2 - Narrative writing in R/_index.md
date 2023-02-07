@@ -1,7 +1,7 @@
 ---
 title: ✏️ Week 2 - Narrative Writing in R
 linkTitle: Learn Robotics
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: Writing never looked so good. Writing narrative prose with RMarkdown will be covered here.
 date: '2022-04-05'
 type: book
 tags:
